@@ -1,6 +1,5 @@
-# SCIP: Solving Constraint Integer Programs
 
-*** PLEASE LOOK AT D__Build_PO__Technical_Documentation.pdf to understand how I used SCIP ***
+# PLEASE LOOK AT D__Build_PO__Technical_Documentation.pdf to understand how I used SCIP #
 
 More about SCIP: 
 
