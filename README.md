@@ -1,5 +1,10 @@
 # SCIP: Solving Constraint Integer Programs
 
+*** PLEASE LOOK AT D__Build_PO__Technical_Documentation.pdf to understand how I used SCIP ***
+
+More about SCIP: 
+
+
 Welcome to what is currently one of the fastest academically developed solvers
 for mixed integer programming (MIP) and mixed integer nonlinear programming
 (MINLP). In addition, SCIP provides a highly flexible framework for constraint
